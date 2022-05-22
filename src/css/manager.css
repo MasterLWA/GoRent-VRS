@@ -1,0 +1,22 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+#logoimgs{
+    width: auto;
+    height: 60px;
+   }
+ 
+   #footer{
+     background: no-repeat,linear-gradient(to bottom, #cc00ff 0%, #6600cc 100%);
+     color:lavender;
+   }
+   
+   a{
+     text-decoration: none;
+   }
+ 
+   .flinks{
+     color: lightcyan;
+     text-decoration: none;
+   }
