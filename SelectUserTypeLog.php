@@ -22,10 +22,10 @@
     </div>
 
     <div class="topnav container-fluid">
-        <a class="active" href="index.php" style="margin-left:400px">Home</a>
+        <a href="index.php" style="margin-left:400px">Home</a>
         <a href="card.php">Check Card</a>
         <a href="contact.php">Contacts</a>
-        <a href="SelectUserTypeLog.php" style="margin-left:800px">Log in</a>
+        <a href="SelectUserTypeLog.php"  class="active" style="margin-left:800px">Log in</a>
         <a href="SelectUserTypeReg.php">Sign Up</a>
     </div>
 

@@ -70,7 +70,7 @@ session_start();
         
     
         if($count == 1){  
-             header("Location: vehicleOwner.php");
+             header("Location: Vehicleowner.php");
         }  
         else{  
            

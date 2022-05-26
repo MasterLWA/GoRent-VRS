@@ -78,7 +78,7 @@ session_start();
         }  
         else{  
            
-            //echo "Login failed. Invalid username or password :(";
+            echo "Login failed. Invalid username or password :(";
         }
 
 
